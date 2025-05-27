@@ -1,2 +1,3 @@
-pgadmin
-postgres
+# Ignore volumes
+pgadmin/
+postgres/
